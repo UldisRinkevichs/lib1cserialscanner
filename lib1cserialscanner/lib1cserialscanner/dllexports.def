@@ -1,0 +1,9 @@
+LIBRARY lib1CSerialScanner
+
+VERSION 1.0
+
+EXPORTS
+    DllRegisterServer      PRIVATE
+    DllUnregisterServer    PRIVATE
+    DllGetClassObject      PRIVATE
+    DllCanUnloadNow        PRIVATE
